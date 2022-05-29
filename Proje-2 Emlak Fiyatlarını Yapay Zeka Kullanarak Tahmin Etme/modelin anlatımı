@@ -1,0 +1,8 @@
+multiple linear Regression hesaplaması :
+    y= a+ b1X1+ b2X2 + b3X3 +..
+    denklemindeki a ve b(i) sayıarının hesaplanmasıdır
+    
+biz python a örnek veri setimizi verdiğimizde python bizim için a ve b(i) değerlerini hesaplar 
+ve yeni X değerlerimizi için Y'yi bize hesaplayıp sonuç olarak verecek fonksiyonu üretir 
+
+
